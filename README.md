@@ -1,1 +1,3 @@
-Doing the Odin Project course and trying to recreate the Google Start page
+Learning Project
+
+Trying to recreate the Google Start page
